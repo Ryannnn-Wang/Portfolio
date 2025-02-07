@@ -1,7 +1,7 @@
-
 # Business Analysis Portfolio
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Data Analytics Tools: Python (PCAP Certification), R, SQL, MySQL, Google Analysis, ERP, SAP, SAS.
+#### Visualization Tools: Microsoft Word, Power Point, Excel (Microsoft Excel Expert certification), Power BI, Tableau, Visio
 
 ## Education	       		
 - M.S., Business Analytics	  | Suffolk University at Boston (_May 2025_)	 			        		
