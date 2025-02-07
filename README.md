@@ -8,7 +8,7 @@
 - B.A., Industrial Economics  | Tamkang University at Taiwan (_May 2020_)
 
 ## Work Experience
-**Financial Data Analyst Intern @ Pegatron Technology Service Inc. (IPO in Taiwan) (_May2024 - July 2024_)**
+**Financial Data Analyst Intern @ Pegatron Technology Service Inc. (_May2024 - July 2024_)**
 - Automated internal financial reporting processes using Python, Excel, and Power BI, integrating data from SAP, reducing manual report generation time by 2+ hours per week.
 - Identified and recovered $10,000 in missing fixed assets by mapping asset data with HQ equipment purchase records. Collaborated with procurement and manufacturing teams to locate and resolve discrepancies.
 - Performed monthly cost structure analyses using SAP GL accounts, including scenario modeling, to empower the sales department with data-driven insights for effective client price negotiations, enhancing sales performance and driving business growth 2% in the U.S. market.
