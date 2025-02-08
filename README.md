@@ -56,3 +56,5 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 - Utilized the Concentration Ratio (CR4) and Herfindahl-Hirschman Index (HHI) to evaluate market competition in the Taiwanese airline industry.
 - Conducted regression analysis to examine the impact of low-cost carriers entering the market on conventional airline market share.
 - Demonstrated a statistically significant effect of low-cost carriers in disrupting the market dominance of traditional airlines.
+
+Hi Ryan
