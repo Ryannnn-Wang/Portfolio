@@ -57,4 +57,4 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 - Conducted regression analysis to examine the impact of low-cost carriers entering the market on conventional airline market share.
 - Demonstrated a statistically significant effect of low-cost carriers in disrupting the market dominance of traditional airlines.
 
-Hi Ryan
+Hi Ryan try different change 
