@@ -25,7 +25,7 @@
 
 ## Projects
 ### Bank Member Churn Project with Logistic Regression 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Publication](https:///)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 -	Leveraged Python to perform comprehensive exploratory data analysis (EDA), uncovering key factors driving member attrition and their relationship with the bank.
@@ -35,7 +35,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Used Vehicle Market Analysis and automatic dashboard with Tableau
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Publication](https:///)
 
 - Performed exploratory data analysis (EDA) using Python to clean and analyze data, uncovering insights such as the relationship between vehicle color and price.
 - Developed predictive pricing models using machine learning techniques, including random forest and lasso regression, achieving a 96% accuracy rate.
